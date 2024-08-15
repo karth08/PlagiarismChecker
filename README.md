@@ -1,4 +1,4 @@
-# PlagiarismChecker
+# Plagiarism Checker
 A simple and efficient plagiarism detection tool built with Python. This project leverages the scikit-learn library for text processing and comparison, alongside Tkinter for a user-friendly graphical interface.
 
 ## Features
